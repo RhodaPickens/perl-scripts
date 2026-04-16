@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 use strict;
 use warnings;
 
@@ -7,7 +8,6 @@ sub main {
 
     my @files = (
         '/Users/rhoda/Pictures/Dad and mum.JPG',
-        '/Users/rhoda/Pictures/josiahai.jpg',
         '/Users/rhoda/Pictures/missing.txt',
     );
 
