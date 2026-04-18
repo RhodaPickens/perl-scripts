@@ -11,6 +11,8 @@ A toolbox of functional Perl scripts
 
 ### [Text Processing](./text-processing)
 * `capture_groups.pl`: Utilizes Regular Expressions to extract specific data patterns
+* `quantifiers.pl`: Demonstrates the use of greedy quantifiers to match and extract specific patterns from text
+* `escape-sequences.pl`: Uses regex escape sequences to identify digits, spaces and alphanumeric text
 
 ### [Web Automation](./web-automation)
 * `download_image.pl`: Interacts with external web services to retrieve media assets
