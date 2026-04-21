@@ -17,3 +17,6 @@ A toolbox of functional Perl scripts
 
 ### [Web Automation](./web-automation)
 * `download_image.pl`: Interacts with external web services to retrieve media assets
+
+### [Data Structures](./data-structures)
+* `hashes.pl`: Demonstrates adding to and iterating through hashes
